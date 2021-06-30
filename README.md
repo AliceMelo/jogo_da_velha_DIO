@@ -1,2 +1,2 @@
 # jogo_da_velha_DIO
-Projeto realizado no Bootcamp JavaScript Game Developer, da Digital Innovation One. Jogo da velha utilizando HTML, CSS e Javascript.
+Projeto realizado no Bootcamp JavaScript Game Developer, da Digital Innovation One. Jogo da velha utilizando HTML, CSS e Javascript. Fiz algumas alterações de cores e adição de emojis.
